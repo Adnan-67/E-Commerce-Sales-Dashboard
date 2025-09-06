@@ -9,6 +9,7 @@ This project is an end-to-end E-Commerce Sales Analytics Dashboard built to prov
 
 ![image alt](https://github.com/Adnan-67/E-Commerce-Sales-Dashboard/blob/main/Page%201.png?raw=true)
 ![image alt](https://github.com/Adnan-67/E-Commerce-Sales-Dashboard/blob/main/Page%202.png?raw=true)
+![image alt](https://github.com/Adnan-67/E-Commerce-Sales-Dashboard/blob/main/Page%203.png?raw=true)
 
 
 
