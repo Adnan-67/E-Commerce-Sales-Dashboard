@@ -8,6 +8,7 @@ This project is an end-to-end E-Commerce Sales Analytics Dashboard built to prov
 4️⃣ Supplier Contribution – Evaluates supplier performance based on order fulfillment, revenue share, and reliability.
 
 ![image alt](https://github.com/Adnan-67/E-Commerce-Sales-Dashboard/blob/main/Page%201.png?raw=true)
+![image alt](https://github.com/Adnan-67/E-Commerce-Sales-Dashboard/blob/main/Page%202.png?raw=true)
 
 
 
